@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyQueue()
+comment1.params=vals
+comment1.target=MyQueue(java.lang.Object[])
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=item
+comment3.target=void\ offer(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ poll()
+comment5.params=
+comment5.target=int\ size()
+comment6.params=
+comment6.target=void\ clear()
+numComments=7

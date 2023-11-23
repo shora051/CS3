@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=maze
+comment0.target=MazeSolver(Maze)
+comment1.params=
+comment1.target=void\ makeEmpty()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=s
+comment3.target=void\ add(Square)
+comment4.params=
+comment4.target=Square\ next()
+comment5.params=
+comment5.target=boolean\ isSolved()
+comment6.params=
+comment6.target=void\ step()
+comment7.params=
+comment7.target=java.lang.String\ getPath()
+comment8.params=
+comment8.target=void\ solve()
+numComments=9
