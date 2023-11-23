@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=nums
+comment0.target=java.util.Queue\ evenFirst(java.util.Queue)
+comment1.params=nums
+comment1.target=boolean\ numPalindrome(java.util.Queue)
+comment2.params=n
+comment2.target=java.util.Stack\ sieveOfErathonstenes(int)
+numComments=3
