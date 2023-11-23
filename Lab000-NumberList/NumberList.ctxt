@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NumberList()
+comment1.params=
+comment1.target=int\ size()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=void\ doubleCapacity()
+comment5.params=index\ val
+comment5.target=void\ add(int,\ java.lang.Integer)
+comment6.params=element
+comment6.target=boolean\ add(java.lang.Integer)
+comment7.params=index
+comment7.target=java.lang.Integer\ get(int)
+comment8.params=index\ val
+comment8.target=java.lang.Integer\ set(int,\ java.lang.Integer)
+comment9.params=index
+comment9.target=java.lang.Integer\ remove(int)
+numComments=10
