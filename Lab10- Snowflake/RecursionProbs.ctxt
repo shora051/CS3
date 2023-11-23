@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=double\ sumReciprocals(int)
+comment1.params=n
+comment1.target=int\ productOfEvens(int)
+comment2.params=num\ base
+comment2.target=java.lang.String\ conversion(int,\ int)
+comment3.params=a\ b
+comment3.target=int\ matchingDigits(int,\ int)
+comment4.params=nums
+comment4.target=void\ doubleUp(java.util.Stack)
+comment5.params=n
+comment5.target=void\ printThis(int)
+comment6.params=n
+comment6.target=void\ printThis2(int)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

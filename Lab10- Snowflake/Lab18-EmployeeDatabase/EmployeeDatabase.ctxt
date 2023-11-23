@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EmployeeDatabase
+comment1.params=key
+comment1.target=int\ hash(int)
+comment2.params=Key\ Val
+comment2.target=void\ put(int,\ Employee)
+comment3.params=Key
+comment3.target=Employee\ get(int)
+comment4.params=hash\ ID
+comment4.target=Employee\ linear(int,\ int)
+comment5.params=hash\ ID
+comment5.target=Employee\ quad(int,\ int)
+numComments=6
