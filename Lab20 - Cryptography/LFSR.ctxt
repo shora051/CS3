@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=seed\ tap
+comment0.target=LFSR(java.lang.String,\ int)
+comment0.text=constructor\ to\ create\ LFSR\ with\ the\ given\ initial\ seed\ and\ tap
+comment1.params=
+comment1.target=int\ step()
+comment1.text=simulate\ one\ step\ and\ return\ the\ new\ bit\ as\ 0\ or\ 1
+comment2.params=k
+comment2.target=int\ generate(int)
+comment2.text=simulate\ k\ steps\ and\ return\ k-bit\ integer
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment5.params=
+comment5.target=void\ test01()
+comment5.text=test\ toString()\ and\ constructor
+comment6.params=
+comment6.target=void\ test02()
+comment6.text=test\ step()\ method
+comment7.params=
+comment7.target=void\ test03()
+comment7.text=test\ generate()\ method
+comment8.params=
+comment8.target=void\ test04()
+comment8.text=test\ generate()\ method\ again
+numComments=9
