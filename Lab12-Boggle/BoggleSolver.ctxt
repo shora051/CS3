@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=dictionaryName
+comment0.target=BoggleSolver(java.lang.String)
+comment1.params=board
+comment1.target=java.lang.Iterable\ getAllValidWords(BoggleBoard)
+comment2.params=board\ x\ y\ rn\ used
+comment2.target=void\ helpWordsPlz(BoggleBoard,\ int,\ int,\ java.lang.String,\ boolean[][])
+comment3.params=word
+comment3.target=int\ scoreOf(java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
