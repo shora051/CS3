@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=root
+comment0.target=void\ printTree(Node)
+comment0.text=\ \r\n\ print\ the\ tree\ in\ a\ tree-like\ form\r\n\ @param\ root\ the\ overall\ root\ of\ the\ tree\r\n
+comment1.params=nodes\ level\ maxLevel
+comment1.target=void\ printNodeInternal(java.util.List,\ int,\ int)
+comment2.params=count
+comment2.target=void\ printWhitespaces(int)
+comment3.params=node
+comment3.target=int\ maxLevel(Node)
+comment4.params=list
+comment4.target=boolean\ isAllElementsNull(java.util.List)
+numComments=5

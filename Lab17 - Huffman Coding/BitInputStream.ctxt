@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=file
+comment0.target=BitInputStream(java.lang.String)
+comment1.params=
+comment1.target=int\ readBit()
+comment2.params=
+comment2.target=void\ nextByte()
+comment3.params=
+comment3.target=void\ close()
+comment4.params=
+comment4.target=void\ finalize()
+numComments=5
