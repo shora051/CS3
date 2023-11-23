@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ size()
+comment0.text=return\ the\ current\ number\ of\ key/value\ pairs\ in\ the\ map
+numComments=1
