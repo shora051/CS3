@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyStack()
+comment1.params=initCap
+comment1.target=MyStack(int)
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=
+comment3.target=Square\ peek()
+comment4.params=
+comment4.target=Square\ pop()
+comment5.params=item
+comment5.target=void\ push(Square)
+comment6.params=
+comment6.target=void\ doubleCapacity()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
