@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=start\ end
+comment0.target=Word(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.util.Queue\ makeQueue()
+comment2.params=
+comment2.target=java.util.Stack\ getLadder()
+comment3.params=word\ other
+comment3.target=int\ checkDif(java.lang.String,\ java.lang.String)
+numComments=4
