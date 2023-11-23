@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Gem()
+comment1.params=type\ points
+comment1.target=Gem(GemType,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=GemType\ getType()
+comment4.params=
+comment4.target=int\ getPoints()
+comment5.params=x\ y
+comment5.target=void\ draw(double,\ double)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=Tester\ main\ method
+numComments=7
