@@ -3,8 +3,8 @@ import java.awt.*;
 
 public class PhotoMagic {
     public static void main(String[] args) {
-     Picture p = new Picture("C:/Users/amanb/Documents/CS3-Labs/Lab20-Cryptography/pipe.png");
-     //Picture p = new Picture("C:/Users/amanb/Documents/CS3-Labs/Lab20-Cryptography/Output.png");
+     Picture p = new Picture("C:/Users/sahil hora/Documents/CS3-Labs/Lab20-Cryptography/pipe.png");
+     //Picture p = new Picture("C:/Users/sahil hora/Documents/CS3-Labs/Lab20-Cryptography/Output.png");
        p.show();
         LFSR l = new LFSR("01101000010100010000", 16);
         Picture r = transform(p, l);
